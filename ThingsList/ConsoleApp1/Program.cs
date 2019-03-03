@@ -11,7 +11,8 @@ namespace ConsoleApp1
         public static void Main(string[] args)
         {
             //PianoKeyboard.Play();
-            KeyAvailableTest.KATest();
+            //KeyAvailableTest.KATest();
+            MenuTest.MTest();
         }
     }
 }

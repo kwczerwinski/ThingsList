@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MenuTest.cs" />
     <Compile Include="KeyAvailableTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="PianoKeyboard.cs" />
